@@ -7,4 +7,7 @@ seaborn
 xgboost
 plotly
 pandoc
-
+keras
+opencv-python
+vit-keras
+tensorflow_addons
