@@ -13,8 +13,8 @@ PDF report: [part2-submission.pdf](./part2-submission.pdf)
 
 ### Part 3: Deep neural network
 script: [part3-submission.ipynb](./part3-submission.ipynb)  
-PDF report: [part3-submission.pdf](./part3-submission.pdf)
-trained model: cifar_cnn.h5
+PDF report: [part3-submission.pdf](./part3-submission.pdf)  
+Trained model: cifar_cnn.h5
 #### Kaggle competition
 **account name:** Jackreckness83  
 ![Kaggle competition](image.png)
