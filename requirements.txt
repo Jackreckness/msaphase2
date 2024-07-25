@@ -11,3 +11,4 @@ keras
 opencv-python
 vit-keras
 tensorflow_addons
+statsmodels
